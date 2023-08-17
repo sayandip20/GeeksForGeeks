@@ -17,7 +17,6 @@ class Solution:
 
 import math
 
-
     
 def main():
     
