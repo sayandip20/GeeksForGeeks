@@ -19,7 +19,6 @@ class Solution:
                 n=n+1
         for i in range(s+1):
                 nums[n-i-1]=nums[i]
-           
         return nums
 
 #{ 
