@@ -12,7 +12,6 @@ public:
     {
         if (x >= 0 && y >= 0 && x < grid.size() && y < grid[0].size() && grid[x][y] == ch)
             return true;
-
         return false;
     }
 
