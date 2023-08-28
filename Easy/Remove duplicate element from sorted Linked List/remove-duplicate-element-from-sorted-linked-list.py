@@ -2,7 +2,6 @@
 '''
 	Your task is to remove duplicates from given 
 	sorted linked list.
-	
 	Function Arguments: head (head of the given linked list) 
 	Return Type: none, just remove the duplicates from the list.
 
