@@ -22,7 +22,6 @@ Node* newNode(int val)
     return temp;
 }
 
-
 void printCorner(Node *root);
 
 // Function to Build Tree
