@@ -5,7 +5,6 @@ import java.io.*;
 import java.util.*;
 import java.lang.*; 
 
-
 class Node {
     int data;
     Node left, right;
